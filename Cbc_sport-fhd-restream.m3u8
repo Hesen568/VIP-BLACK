@@ -2,6 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://poh3.admuspeh.my/8852/tracks-v1a1/mono.m3u8?cid=216&did=79669&m=1&rid=81272&token=2ccd8f0823354ddf82ce58050fe27ae6
+http://poh1.admuspeh.my/8852/tracks-v1a1/mono.ts.m3u8?cid=215&did=79669&m=1&rid=81272&token=3b39b177282d39f0c644147cadc0401e
 https://goldvod.org/tv/d.php?id=cbcsport
 
