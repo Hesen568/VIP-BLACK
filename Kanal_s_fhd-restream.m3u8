@@ -2,5 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/kanals.m3u8?bandwidth=6096&e=1766909150&playlistlength=5&shift=0&sid=coder_57&token=bb486df911085e3fa5aee39659496a9d&user=37076
+https://goldvod.org/live/hpgdisco/123456/10405.m3u8
 https://goldvod.org/tv/d.php/m3u8?id=kanal_s
