@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://goldvod.org/live/hpgdisco/123456/10237.m3u8
+
+
+
+
+
+
+
+
+#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
