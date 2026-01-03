@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 http://145.239.37.125:20458/maksimtv/maksimtv/chunklist.m3u8
 https://box.cinemax6.com:3516/stream/play.m3u8
 https://ip44.radyotelekomtv.com:3886/stream/play.m3u8
