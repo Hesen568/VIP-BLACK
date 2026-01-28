@@ -3,4 +3,4 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="audio2",AUTOSELECT=YES,DEFAULT=YES,URI="https://customer-xe0l1qtroxu1onlw.cloudflarestream.com/678680bc2b251eb7c9710fa9f707658d/manifest/stream_tcd7a2079e63416f1f8f41905c5919c84_r1363420769.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=2032512,AVERAGE-BANDWIDTH=1981205,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="audio"
-https://customer-xe0l1qtroxu1onlw.cloudflarestream.com/678680bc2b251eb7c9710fa9f707658d/manifest/stream_t90153aea52de803a3bcdf4fd04fcaa8c_r1363420771.m3u8
+https://tv.gunaz.tv/hls/live.m3u8
