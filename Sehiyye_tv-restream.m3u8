@@ -2,5 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://str.yodacdn.net/shtv/tracks-v1a1/mono.ts.m3u8
 https://goldvod.org/live/hpgdisco/123456/10248.m3u8
 https://goldvod.org/tv/d.php?id=sehiyye_tv&ext=.m3u8
