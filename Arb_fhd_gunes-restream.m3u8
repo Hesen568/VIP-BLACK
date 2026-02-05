@@ -2,6 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://str2.yodacdn.net/arbgunesh/tracks-v1a1/mono.ts.m3u8
+http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/2189/index.m3u8
 https://goldvod.org/live/hpgdisco/123456/10246.m3u8
 https://goldvod.org/tv/d.php/m3u8?id=arb_gunesh
