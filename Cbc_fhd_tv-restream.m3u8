@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://109.205.166.68/server33/hls/cbc_az.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 https://str2.yodacdn.net/cbc/tracks-v1a1/mono.ts.m3u8
 http://ott.teleport.az/server33/hls/cbc_az.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 https://goldvod.org/live/hpgdisco/123456/10243.m3u8
