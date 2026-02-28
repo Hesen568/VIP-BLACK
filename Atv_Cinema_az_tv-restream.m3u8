@@ -2,5 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://82.22.174.149/iptv_proxy/stream.php?stream=2120%2Findex.m3u8
 https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
 
