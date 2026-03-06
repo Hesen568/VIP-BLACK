@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://82.22.174.149/iptv_max/stream.php?stream=2193%2Findex.m3u8
+http://82.22.174.149/iptv_proxy/stream.php?stream=2193%2Findex.m3u8
 http://ott.teleport.az/server33/hls/cbc_sport.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 https://goldvod.org/live/hpgdisco/123456/10242.m3u8
 http://poh3.admuspeh.my/8852/tracks-v1a1/mono.m3u8?token=4mj8XyV9ZiaTpxnk
