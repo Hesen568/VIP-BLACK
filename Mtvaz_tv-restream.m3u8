@@ -2,7 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://mega.fullmaxgold.workers.dev/live/2372.m3u8
 http://82.22.174.149/iptv_pro/stream.php?stream=2191%2Findex.m3u8
 http://9a45561f.akadatel.com/iptv/VH7KCL3CXNAEM772UGKKKS96/2191/index.m3u8
 http://82.22.174.149/iptv_proxy/stream.php?stream=2191%2Findex.m3u8
