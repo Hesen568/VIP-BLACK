@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_0.m3u8
 https://live-azd1103.telewebion.ir/ek/sabalan/live/576p/index.m3u8
 https://vizon.cinemax6.com:3013/stream/play.m3u8
 https://newyork.zeuscdn724.com/H2/tracks-v4a1/mono.ts.m3u8
