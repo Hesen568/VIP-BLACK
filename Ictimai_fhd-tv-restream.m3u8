@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://46.32.176.50/ictimaitv/tracks-v1a1/mono.ts.m3u8
 https://hesen568.useruno.com/TV_Panel/restream.php?url=aHR0cDovLzU0LjM3LjEzOC4zMC8xMTQ0NS90cmFja3MtdjFhMS9tb25vLm0zdTg%2FdG9rZW49MUFCNzk3NTAwNzg4&id=871&ts=1
 http://109.205.166.68/server124/ictimai_tv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 https://hesen568.useruno.com/iptv_proxy/stream.php?stream=2195%2Findex.m3u8
