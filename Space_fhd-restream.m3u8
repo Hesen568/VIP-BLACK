@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://168.119.58.242/play/f_BX1L0-rdInVewZIDjlt6aDp8pjhO4cYfHeCxGljL8/m3u8
 http://46.32.176.50/spacetv/tracks-v1a1/mono.ts.m3u8
 http://109.205.166.68/server124/space_tv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 https://hesen568.useruno.com/iptv_proxy/stream.php?stream=2190%2Findex.m3u8
