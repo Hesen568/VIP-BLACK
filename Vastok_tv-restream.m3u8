@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://stream3.itv.uz/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/tracks-v3a1/mono.m3u8
 https://musichls.persiana.live/hls/stream.m3u8
 https://str2.yodacdn.net/tmb/tracks-v1a1/mono.ts.m3u8
 http://195.49.206.244:90/TMV/mono.m3u8?token=video
