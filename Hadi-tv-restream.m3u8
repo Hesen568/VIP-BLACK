@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
+https://amsterdam.zeuscdn724.com/H3/tracks-v4a1/mono.ts.m3u8
 http://m.live.net.sa:1935/live/quran/chunklist.m3u8
 
 
